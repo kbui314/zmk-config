@@ -57,7 +57,7 @@
 // |   F7  |  F8 |  F9 |  F10 |  F11 |  F12 |        |  |       |  +   |   -   |   =   |  [   |   ]   |   \   |
 //                     |      |      |      |        |  |       |      |       |       |
 			bindings = <
-&trans    &trans &trans &trans  &trans  &trans                       &trans      &trans    &trans    &trans   &trans    &tog 3
+&trans    &trans &trans &trans  &trans  &trans                       &trans      &trans    &trans    &trans   &to 0    &to 3
 &trans    &trans &trans &trans  &trans  &trans                       &trans      &kp HOME  &kp N8    &kp N9   &kp END   &kp DELETE
 &kp F1    &kp F2 &kp F3 &kp F4  &kp F5  &kp F6                       &kp C_VOL_UP      &kp LEFT  &kp DOWN  &kp UP   &kp RIGHT &trans
 &kp F7    &kp F8 &kp F9 &kp F10 &kp F11 &kp F12   &trans   &kp C_MUTE &kp C_VOL_DN      &kp RBRC  &kp RPAR  &kp RBKT &trans    &trans
